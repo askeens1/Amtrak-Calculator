@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">amtrak2</string>
+    <string name="hourTime">Boarding time in hours</string>
+    <string name="minuteTime">Boarding Time in minutes</string>
+    <string name="txtTitle">Amtrak</string>
+    <string name="lengthMinutes">Length in minutes only</string>
+    <string name="imgDescription">Amtrak logo</string>
+    <string name="btnArrival">Arrival Time</string>
+</resources>
